@@ -67,7 +67,7 @@ a .menu-bar:active {
 }
 
 .sectionOne {
-    background: url("/images/model-3.jpg");
+    background: url("images/model-3.jpg");
     /* background-size: fill; */
     background-size: 234vw 100%;
     background-position: 46%;
