@@ -76,7 +76,7 @@ a .menu-bar:active {
 }
 
 .sectionTwo {
-    background: url("../images/model-y.jpg");
+    background: url("images/model-y.jpg");
     background-size: 200vw 100%;
     background-position: 50%;
     height: 80vh;
@@ -84,7 +84,7 @@ a .menu-bar:active {
 }
 
 .sectionThree {
-    background: url("../images/model-s.jpg");
+    background: url("images/model-s.jpg");
     background-size: 188vw 100%;
     background-position: 57%;
     height: 80vh;
@@ -92,7 +92,7 @@ a .menu-bar:active {
 }
 
 .sectionFour {
-    background: url("../images/model-x.jpg");
+    background: url("images/model-x.jpg");
     background-size: 220vw 100%;
     background-position: 50%;
     height: 80vh;
@@ -100,7 +100,7 @@ a .menu-bar:active {
 }
 
 .sectionFive {
-    background: url("../images/solarpanels.jpg");
+    background: url("images/solarpanels.jpg");
     background-size: 160vw 100%;
     background-position: 50%;
     height: 80vh;
@@ -108,7 +108,7 @@ a .menu-bar:active {
 }
 
 .sectionSix {
-    background: url("../images/roof.jpg");
+    background: url("images/roof.jpg");
     background-size: cover;
     background-position: center;
     height: 80vh;
@@ -116,7 +116,7 @@ a .menu-bar:active {
 }
 
 .sectionSeven {
-    background: url("../images/accessories.jpg");
+    background: url("images/accessories.jpg");
     background-size: cover;
     background-position: center;
     height: 80vh;
